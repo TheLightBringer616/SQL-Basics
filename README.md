@@ -1,4 +1,4 @@
-# SQL-Basics
+# SQL-Scripts and SQL with Python
 
 This repository includes multiple examples in SQL.
 <br>
@@ -36,6 +36,12 @@ This repository includes multiple examples in SQL.
   </li>
 </ul>
 
+<br>
+
+Inside the directories SQL a wide variety of scripts can be found.
+<br>
+
+Jupyter-Notebooks contains some worked examples with SQL
 <br>
 
 Inside the file **`EDA SQL.ipynb`** can be found the intructions of what was done and the corresponding dataset of this work is **`Spacex.csv`**.
