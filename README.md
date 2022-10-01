@@ -5,8 +5,8 @@ This repository includes multiple examples in SQL.
 
 
 <ul>
-  <li>Basic SQL (SELECT, COUNT, DISTINCT, INSERT, DELETE, ...)</li>
-  <li>DDL and DML Statements (CREATE, ALTER, TRUNCATE, ...)</li>
+  <li>Basic SQL: DML Statements (SELECT, COUNT, DISTINCT, INSERT, DELETE, ...)</li>
+  <li>Basic SQL: DDL Statements (CREATE, ALTER, TRUNCATE, ...)</li>
   <li>Intermediate SQL (Refining Results)
     <ul>
         <li>String Patterns and Ranges</li>
