@@ -3,10 +3,10 @@
 This repository includes multiple examples in SQL.
 <br>
 
-Inside the directories a wide variety of SQL scripts can be found.
+Inside the directories a wide variety of SQL scripts can be found, the instructions of what was done is inside each file.
 <br>
 
-Jupyter-Notebooks contains some worked examples with SQL inside the directory **`SQL_Jupyter`**.
+Jupyter-Notebooks contains some examples worked with SQL inside the **`SQL_Jupyter`** directory, the instructions of what was done is inside each file.
 <br>
 
 <ul>
