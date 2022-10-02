@@ -3,6 +3,11 @@
 This repository includes multiple examples in SQL.
 <br>
 
+Inside the directories a wide variety of SQL scripts can be found.
+<br>
+
+Jupyter-Notebooks contains some worked examples with SQL inside the directory **`SQL_Jupyter`**.
+<br>
 
 <ul>
   <li>Basic SQL: DML Statements (SELECT, COUNT, DISTINCT, INSERT, DELETE, ...)</li>
@@ -36,13 +41,4 @@ This repository includes multiple examples in SQL.
   </li>
 </ul>
 
-<br>
-
-Inside the directories SQL a wide variety of scripts can be found.
-<br>
-
-Jupyter-Notebooks contains some worked examples with SQL
-<br>
-
-Inside the file **`EDA SQL.ipynb`** can be found the intructions of what was done and the corresponding dataset of this work is **`Spacex.csv`**.
 <br>
