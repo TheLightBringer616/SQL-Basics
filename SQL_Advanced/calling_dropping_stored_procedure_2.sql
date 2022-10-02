@@ -1,0 +1,11 @@
+--Call stored procedure 1
+CALL RETRIEVE_ALL;
+CALL UPDATE_SALEPRICE(1, 'BAD');        -- Caller query
+CALL RETRIEVE_ALL;
+
+CALL RETRIEVE_ALL;
+CALL UPDATE_SALEPRICE(3, 'WORSE');      -- Caller query
+CALL RETRIEVE_ALL;
+
+--Drop stored procedure 1
+DROP PROCEDURE UPDATE_SALEPRICE;
