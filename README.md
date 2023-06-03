@@ -1,4 +1,4 @@
-# SQL-Scripts and SQL with Python
+# Learning SQL-Scripts and SQL with Python
 
 This repository includes multiple examples in SQL.
 <br>
